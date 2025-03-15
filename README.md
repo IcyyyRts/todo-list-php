@@ -1,0 +1,11 @@
+#README.md
+-Add task
+-Complete task
+-Database
+-Delete task
+-Edit task
+-Index
+-Remove Task
+-Styling
+-Validation
+-Pagination
